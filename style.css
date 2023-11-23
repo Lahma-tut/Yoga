@@ -304,6 +304,7 @@ button {
 button:hover {
     color: #fff;
     background: #e8571c;
+    border-radius: 0px 0px 21px 0px;
 }
 
 .copyright {
