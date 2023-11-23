@@ -289,7 +289,7 @@ h3 {
     color: #e8571c;
     letter-spacing: 0.5px;
     line-height: 21px;
-    padding: 6px;
+    padding: 10px;
 }
 
 button {
@@ -297,7 +297,7 @@ button {
     background: none;
     letter-spacing: .5px;
     border-left: 2px solid #e8571c;
-    padding: 0px 10px;
+    padding: 0px 20px;
 }
 
 button:hover {
