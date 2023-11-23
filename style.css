@@ -94,7 +94,6 @@ h6 {
 }
 .header {
     grid-area: header;
-    background-color: #dedede;
     display: grid;
     grid-template: 1fr / 1fr minmax(auto, 300px) minmax(auto, 1100px) 1fr;
     align-items: center;
@@ -301,7 +300,6 @@ button:hover {
 .copyright p {
     margin: 1px 0;
 }
-
 
 footer {
     grid-area: footer;
