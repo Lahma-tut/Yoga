@@ -298,6 +298,7 @@ button {
     letter-spacing: .5px;
     border-left: 2px solid #e8571c;
     padding: 0px 20px;
+    text-transform: uppercase;
 }
 
 button:hover {
