@@ -262,7 +262,7 @@ h2 {
 
 .products__item {
     border: 2px solid #e8571c;
-
+    border-radius: 0px 0px 21px 0px;
 }
 
 .item__img {
