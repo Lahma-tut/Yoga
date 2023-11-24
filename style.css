@@ -308,12 +308,11 @@ button:hover {
 }
 
 .copyright {
-   
    margin-top: 30px;
 }
 
 .copyright p {
-    font-saze: 13px;
+    font-size: 12px;
     margin: 1px 0;
 }
 
