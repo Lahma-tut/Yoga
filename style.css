@@ -167,7 +167,7 @@ h6 {
     .sidebar {
         grid-column: 2 / 3;
         padding: 30px;
-        margin: 0px 0px 30px 0px;
+        margin: 0px 0px 20px 0px;
         border: 2px solid #e8571c;
         border-radius: 73px 0px 73px 0px;
     }
